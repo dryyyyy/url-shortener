@@ -1,0 +1,8 @@
+{
+  "name": "url-shortener",
+  "description": "the third freecodecamp api project.js",
+  "repository": "https://github.com/dryyyyy/url-shortener",
+  "logo": "N/A",
+  "keywords": ["node", "express", "heroku"],
+  "image": "heroku/nodejs"
+}

@@ -4,7 +4,7 @@
   "description": "it's the third challenge on freecodecamp api projects",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
@@ -12,13 +12,15 @@
   },
   "author": "dryyyyy",
   "license": "ISC",
+    "engines": {
+    "node": "4.7.3"
+  },
   "bugs": {
     "url": "https://github.com/dryyyyy/url-shortener/issues"
   },
   "homepage": "https://github.com/dryyyyy/url-shortener#readme",
   "dependencies": {
     "express": "^4.15.3",
-    "mongodb": "^2.2.27",
     "path": "^0.12.7"
   }
 }
